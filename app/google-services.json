@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "668354699720",
+    "firebase_url": "https://appmovie-nh6-default-rtdb.firebaseio.com",
+    "project_id": "appmovie-nh6",
+    "storage_bucket": "appmovie-nh6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668354699720:android:486b352b5476b1c18020fd",
+        "android_client_info": {
+          "package_name": "com.example.AppMovie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUdqxRC0VbqwSoAjInaTVIihMJ5_ImoBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668354699720:android:b0ef8ee2c4189ba48020fd",
+        "android_client_info": {
+          "package_name": "com.example.MovieApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUdqxRC0VbqwSoAjInaTVIihMJ5_ImoBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
